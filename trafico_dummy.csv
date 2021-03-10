@@ -1,0 +1,6 @@
+id;hora_ok;carga;DIA_OK;Semana_mes;latitud;longitud;LLUVIA;mes;tipo_via
+1;08:30;0;lunes;1;;;0;1;carga_baja
+1;08:45;0;martes;2;;;0;1;carga_media
+1;09:00;0;miercoles;3;;;0;1;carga_alta
+1;09:15;0;jueves;4;;;0;1;carga_muy_alta
+1;09:30;0;viernes;5;;;0;1;carga_muy_alta
